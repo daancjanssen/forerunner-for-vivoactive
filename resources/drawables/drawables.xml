@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list background="Graphics.COLOR_TRANSPARENT" id="batteryicon">
+		<shape color="Graphics.COLOR_RED" radius="8" y="260" x="78" type="circle"/>
+	</drawable-list>
+</drawables>

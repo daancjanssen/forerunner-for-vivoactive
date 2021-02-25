@@ -1,0 +1,3 @@
+<properties>
+	<property id="leadingZero" type="boolean">false</property>
+</properties>

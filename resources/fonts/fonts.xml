@@ -1,0 +1,5 @@
+<fonts>
+	<font id="LargeFontBold" filename="bold.fnt" filter="0123456789" />
+	<font id="LargeFontLight" filename="light.fnt" filter="0123456789" />
+	<font id="IconFont" filename="icons.fnt" filter="0123456789" />
+</fonts>

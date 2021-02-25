@@ -1,0 +1,7 @@
+<settings>
+
+    <setting propertyKey="@Properties.leadingZero" title="@Strings.LeadingZeroTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+</settings>
